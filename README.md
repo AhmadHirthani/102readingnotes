@@ -1,7 +1,7 @@
 # 102readingnotes  
 wellcome to my reading notes website  
 | topic         | link                                                                           |  
-| ------------- | ------------------------------------------------------------------------------ |  
+| ----------- | ----------- |  
 | groth mindset | [groth mindset](https://ahmadhirthani.github.io/102readingnotes/crowthmindset) |  
 | java script   | [java script](https://ahmadhirthani.github.io/102readingnotes/javascript)      |  
 
@@ -12,7 +12,7 @@ wellcome to my reading notes website
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | [groth mindset](https://ahmadhirthani.github.io/102readingnotes/crowthmindset)       |
-| Paragraph   | [java script](https://ahmadhirthani.github.io/102readingnotes/javascript)        |
+| groth mindset      | [groth mindset](https://ahmadhirthani.github.io/102readingnotes/crowthmindset)       |
+| java script   | [java script](https://ahmadhirthani.github.io/102readingnotes/javascript)        |
 
 
